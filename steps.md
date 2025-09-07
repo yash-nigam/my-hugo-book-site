@@ -111,4 +111,5 @@ git push -u origin claudsonnet3.5_public
 4. Set folder to `/ (root)`
 5. Save changes
 
-Your site will be available at: `https://yash-nigam.github.io/my-hugo-
+
+Your site will be available at: `https://yash-nigam.github.io/my-hugo-book-site/`
