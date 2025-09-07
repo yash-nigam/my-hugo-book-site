@@ -1,0 +1,21 @@
+baseURL = "https://yash-nigam.github.io/my-hugo-book-site/"
+title = "Claude Sonnet 3.5 Documentation"
+theme = "hugo-book"
+
+# Book theme options
+[params]
+  # Show table of contents by default
+  BookToC = true
+  # Set source repository location
+  BookRepo = "https://github.com/yash-nigam/my-hugo-book-site"
+
+[menu]
+  [[menu.before]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.before]]
+    name = "Docs"
+    url = "/docs/"
+    weight = 2

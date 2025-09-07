@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Hugo Book Site</title>
+    <title>Welcome to Claude Sonnet 3.5 on Claude Sonnet 3.5 Documentation</title>
     <link>https://yash-nigam.github.io/my-hugo-book-site/</link>
-    <description>Recent content on My Hugo Book Site</description>
+    <description>Recent content in Welcome to Claude Sonnet 3.5 on Claude Sonnet 3.5 Documentation</description>
     <generator>Hugo</generator>
     <language>en</language>
     <atom:link href="https://yash-nigam.github.io/my-hugo-book-site/index.xml" rel="self" type="application/rss+xml" />
